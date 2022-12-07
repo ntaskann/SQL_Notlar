@@ -1,4 +1,4 @@
--- GROUP BY
+-- GROUP BY--
 CREATE TABLE personel
 (
 id int,
